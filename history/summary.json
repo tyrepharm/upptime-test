@@ -76,18 +76,20 @@
     "url": "http://5.101.51.170/",
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-tyre-pharmacy",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "93.39%",
+    "uptimeDay": "93.39%",
+    "uptimeWeek": "93.39%",
+    "uptimeMonth": "93.39%",
+    "uptimeYear": "93.39%",
     "time": 2261,
     "timeDay": 2261,
     "timeWeek": 2261,
     "timeMonth": 2261,
     "timeYear": 2261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-08": 1
+    }
   },
   {
     "name": "(test) Monitor / MySQL",
@@ -95,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-monitor-my-sql",
     "status": "down",
-    "uptime": "9.42%",
-    "uptimeDay": "9.42%",
-    "uptimeWeek": "9.42%",
-    "uptimeMonth": "9.42%",
-    "uptimeYear": "9.42%",
+    "uptime": "0.58%",
+    "uptimeDay": "0.58%",
+    "uptimeWeek": "0.58%",
+    "uptimeMonth": "0.58%",
+    "uptimeYear": "0.58%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-08": 1
+      "2020-12-08": 9
     }
   },
   {
@@ -115,18 +117,18 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-monitor-init-php",
     "status": "down",
-    "uptime": "9.93%",
-    "uptimeDay": "9.93%",
-    "uptimeWeek": "9.93%",
-    "uptimeMonth": "9.93%",
-    "uptimeYear": "9.93%",
+    "uptime": "0.55%",
+    "uptimeDay": "0.55%",
+    "uptimeWeek": "0.55%",
+    "uptimeMonth": "0.55%",
+    "uptimeYear": "0.55%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-08": 0
+      "2020-12-08": 9
     }
   },
   {
@@ -135,18 +137,18 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-monitor-services",
     "status": "down",
-    "uptime": "10.30%",
-    "uptimeDay": "10.30%",
-    "uptimeWeek": "10.30%",
-    "uptimeMonth": "10.30%",
-    "uptimeYear": "10.30%",
+    "uptime": "0.52%",
+    "uptimeDay": "0.52%",
+    "uptimeWeek": "0.52%",
+    "uptimeMonth": "0.52%",
+    "uptimeYear": "0.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-08": 0
+      "2020-12-08": 9
     }
   }
 ]

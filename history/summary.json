@@ -77,11 +77,11 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-tyre-pharmacy",
     "status": "up",
-    "uptime": "61.99%",
-    "uptimeDay": "61.99%",
-    "uptimeWeek": "61.99%",
-    "uptimeMonth": "61.99%",
-    "uptimeYear": "61.99%",
+    "uptime": "62.60%",
+    "uptimeDay": "62.60%",
+    "uptimeWeek": "62.60%",
+    "uptimeMonth": "62.60%",
+    "uptimeYear": "62.60%",
     "time": 8413,
     "timeDay": 8413,
     "timeWeek": 8413,
@@ -97,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-monitor-my-sql",
     "status": "down",
-    "uptime": "0.41%",
-    "uptimeDay": "0.41%",
-    "uptimeWeek": "0.41%",
-    "uptimeMonth": "0.41%",
-    "uptimeYear": "0.41%",
+    "uptime": "0.45%",
+    "uptimeDay": "0.45%",
+    "uptimeWeek": "0.45%",
+    "uptimeMonth": "0.45%",
+    "uptimeYear": "0.45%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-08": 14
+      "2020-12-08": 15
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-monitor-init-php",
     "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
+    "uptime": "0.31%",
+    "uptimeDay": "0.31%",
+    "uptimeWeek": "0.31%",
+    "uptimeMonth": "0.31%",
+    "uptimeYear": "0.31%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-08": 14
+      "2020-12-08": 15
     }
   },
   {
@@ -137,18 +137,18 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-monitor-services",
     "status": "down",
-    "uptime": "0.25%",
-    "uptimeDay": "0.25%",
-    "uptimeWeek": "0.25%",
-    "uptimeMonth": "0.25%",
-    "uptimeYear": "0.25%",
+    "uptime": "0.29%",
+    "uptimeDay": "0.29%",
+    "uptimeWeek": "0.29%",
+    "uptimeMonth": "0.29%",
+    "uptimeYear": "0.29%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-08": 14
+      "2020-12-08": 15
     }
   }
 ]

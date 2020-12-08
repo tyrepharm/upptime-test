@@ -1,34 +1,38 @@
-# Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: tyrepharm
+repo: upptime-test
 
-# Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: (dev) Tyre Pharmacy
+    url: http://95.213.204.159/
+  - name: (dev) Monitor / MySQL 
+    url: http://95.213.204.159/local/api/Monitor/db
+    headers:
+      - "Content-Type: application/json"
+  - name: (dev) Monitor / init.php 
+    url: http://95.213.204.159/local/api/Monitor/init
+    headers:
+      - "Content-Type: application/json"
+  - name: (dev) Monitor / services 
+    url: http://95.213.204.159/local/api/Monitor/services
+    headers:
+      - "Content-Type: application/json"
+  - name: (test) Tyre Pharmacy
+    url: http://5.101.51.170/
+  - name: (test) Monitor / MySQL 
+    url: http://5.101.51.170/local/api/Monitor/db
+    headers:
+      - "Content-Type: application/json"
+  - name: (test) Monitor / init.php 
+    url: http://5.101.51.170/local/api/Monitor/init
+    headers:
+      - "Content-Type: application/json"
+  - name: (test) Monitor / services 
+    url: http://5.101.51.170/local/api/Monitor/services
+    headers:
+      - "Content-Type: application/json"
+
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  baseUrl: /upptime
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  logoUrl: https://tyrepharm.ru/upload/aspro.mshop/145/14547cf839786595aaf89f08fb31a9ca.svg

@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1567,
-    "timeDay": 1567,
-    "timeWeek": 1567,
-    "timeMonth": 1567,
-    "timeYear": 1567,
+    "time": 1558,
+    "timeDay": 1558,
+    "timeWeek": 1558,
+    "timeMonth": 1558,
+    "timeYear": 1558,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 231,
-    "timeWeek": 231,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "time": 234,
+    "timeDay": 234,
+    "timeWeek": 234,
+    "timeMonth": 234,
+    "timeYear": 234,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 318,
-    "timeWeek": 318,
-    "timeMonth": 318,
-    "timeYear": 318,
+    "time": 323,
+    "timeDay": 323,
+    "timeWeek": 323,
+    "timeMonth": 323,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2286,
-    "timeDay": 2286,
-    "timeWeek": 2286,
-    "timeMonth": 2286,
-    "timeYear": 2286,
+    "time": 2321,
+    "timeDay": 2321,
+    "timeWeek": 2321,
+    "timeMonth": 2321,
+    "timeYear": 2321,
     "dailyMinutesDown": {}
   },
   {
@@ -77,16 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-tyre-pharmacy",
     "status": "up",
-    "uptime": "62.60%",
-    "uptimeDay": "62.60%",
-    "uptimeWeek": "62.60%",
-    "uptimeMonth": "62.60%",
-    "uptimeYear": "62.60%",
-    "time": 8413,
-    "timeDay": 8413,
-    "timeWeek": 8413,
-    "timeMonth": 8413,
-    "timeYear": 8413,
+    "uptime": "96.86%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "96.86%",
+    "time": 5754,
+    "timeDay": 5754,
+    "timeWeek": 5754,
+    "timeMonth": 5754,
+    "timeYear": 5754,
     "dailyMinutesDown": {
       "2020-12-08": 6
     }
@@ -97,18 +97,19 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-monitor-my-sql",
     "status": "down",
-    "uptime": "0.45%",
-    "uptimeDay": "0.45%",
-    "uptimeWeek": "0.45%",
-    "uptimeMonth": "0.45%",
-    "uptimeYear": "0.45%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-08": 15
+      "2020-12-09": 21,
+      "2020-12-08": 155
     }
   },
   {
@@ -117,18 +118,19 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-monitor-init-php",
     "status": "down",
-    "uptime": "0.31%",
-    "uptimeDay": "0.31%",
-    "uptimeWeek": "0.31%",
-    "uptimeMonth": "0.31%",
-    "uptimeYear": "0.31%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-08": 15
+      "2020-12-09": 21,
+      "2020-12-08": 155
     }
   },
   {
@@ -137,18 +139,19 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-monitor-services",
     "status": "down",
-    "uptime": "0.29%",
-    "uptimeDay": "0.29%",
-    "uptimeWeek": "0.29%",
-    "uptimeMonth": "0.29%",
-    "uptimeYear": "0.29%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-08": 15
+      "2020-12-09": 21,
+      "2020-12-08": 154
     }
   }
 ]

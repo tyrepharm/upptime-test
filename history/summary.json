@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1585,
-    "timeDay": 1585,
-    "timeWeek": 1585,
-    "timeMonth": 1585,
-    "timeYear": 1585,
+    "time": 1558,
+    "timeDay": 1558,
+    "timeWeek": 1558,
+    "timeMonth": 1558,
+    "timeYear": 1558,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 233,
-    "timeWeek": 233,
-    "timeMonth": 233,
-    "timeYear": 233,
+    "time": 234,
+    "timeDay": 234,
+    "timeWeek": 234,
+    "timeMonth": 234,
+    "timeYear": 234,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 307,
-    "timeWeek": 307,
-    "timeMonth": 307,
-    "timeYear": 307,
+    "time": 323,
+    "timeDay": 323,
+    "timeWeek": 323,
+    "timeMonth": 323,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2372,
-    "timeDay": 2372,
-    "timeWeek": 2372,
-    "timeMonth": 2372,
-    "timeYear": 2372,
+    "time": 2321,
+    "timeDay": 2321,
+    "timeWeek": 2321,
+    "timeMonth": 2321,
+    "timeYear": 2321,
     "dailyMinutesDown": {}
   },
   {
@@ -76,19 +76,19 @@
     "url": "http://5.101.51.170/",
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-tyre-pharmacy",
-    "status": "down",
-    "uptime": "93.39%",
-    "uptimeDay": "93.39%",
-    "uptimeWeek": "93.39%",
-    "uptimeMonth": "93.39%",
-    "uptimeYear": "93.39%",
-    "time": 2261,
-    "timeDay": 2261,
-    "timeWeek": 2261,
-    "timeMonth": 2261,
-    "timeYear": 2261,
+    "status": "up",
+    "uptime": "96.86%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "96.86%",
+    "uptimeYear": "96.86%",
+    "time": 5754,
+    "timeDay": 5754,
+    "timeWeek": 5754,
+    "timeMonth": 5754,
+    "timeYear": 5754,
     "dailyMinutesDown": {
-      "2020-12-08": 1
+      "2020-12-08": 6
     }
   },
   {
@@ -97,18 +97,19 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-monitor-my-sql",
     "status": "down",
-    "uptime": "0.58%",
-    "uptimeDay": "0.58%",
-    "uptimeWeek": "0.58%",
-    "uptimeMonth": "0.58%",
-    "uptimeYear": "0.58%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-08": 9
+      "2020-12-09": 21,
+      "2020-12-08": 155
     }
   },
   {
@@ -117,18 +118,19 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-monitor-init-php",
     "status": "down",
-    "uptime": "0.55%",
-    "uptimeDay": "0.55%",
-    "uptimeWeek": "0.55%",
-    "uptimeMonth": "0.55%",
-    "uptimeYear": "0.55%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-08": 9
+      "2020-12-09": 21,
+      "2020-12-08": 155
     }
   },
   {
@@ -137,18 +139,19 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-monitor-services",
     "status": "down",
-    "uptime": "0.52%",
-    "uptimeDay": "0.52%",
-    "uptimeWeek": "0.52%",
-    "uptimeMonth": "0.52%",
-    "uptimeYear": "0.52%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-08": 9
+      "2020-12-09": 21,
+      "2020-12-08": 154
     }
   }
 ]

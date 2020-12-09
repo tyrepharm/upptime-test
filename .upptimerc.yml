@@ -33,6 +33,6 @@ sites:
 
 
 status-website:
-  baseUrl: /upptime
+  baseUrl: /upptime-test
   name: (test) Upptime
   logoUrl: https://tyrepharm.ru/upload/aspro.mshop/145/14547cf839786595aaf89f08fb31a9ca.svg

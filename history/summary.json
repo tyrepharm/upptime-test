@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1506,
-    "timeDay": 1490,
-    "timeWeek": 1506,
-    "timeMonth": 1506,
-    "timeYear": 1506,
+    "time": 1482,
+    "timeDay": 1340,
+    "timeWeek": 1482,
+    "timeMonth": 1482,
+    "timeYear": 1482,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 209,
-    "timeWeek": 222,
-    "timeMonth": 222,
-    "timeYear": 222,
+    "time": 216,
+    "timeDay": 177,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 311,
-    "timeWeek": 305,
-    "timeMonth": 305,
-    "timeYear": 305,
+    "time": 299,
+    "timeDay": 265,
+    "timeWeek": 299,
+    "timeMonth": 299,
+    "timeYear": 299,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2290,
-    "timeDay": 2272,
-    "timeWeek": 2290,
-    "timeMonth": 2290,
-    "timeYear": 2290,
+    "time": 2325,
+    "timeDay": 2536,
+    "timeWeek": 2325,
+    "timeMonth": 2325,
+    "timeYear": 2325,
     "dailyMinutesDown": {}
   },
   {
@@ -77,16 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/5.101.51.170",
     "slug": "test-tyre-pharmacy",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
-    "time": 3364,
-    "timeDay": 1324,
-    "timeWeek": 3364,
-    "timeMonth": 3364,
-    "timeYear": 3364,
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 3051,
+    "timeDay": 1168,
+    "timeWeek": 3051,
+    "timeMonth": 3051,
+    "timeYear": 3051,
     "dailyMinutesDown": {
       "2020-12-08": 6
     }
@@ -108,7 +108,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-11": 21,
+      "2020-12-12": 21,
+      "2020-12-11": 1440,
       "2020-12-10": 1440,
       "2020-12-09": 1440,
       "2020-12-08": 155
@@ -131,7 +132,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-11": 21,
+      "2020-12-12": 21,
+      "2020-12-11": 1440,
       "2020-12-10": 1440,
       "2020-12-09": 1440,
       "2020-12-08": 155
@@ -154,7 +156,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-11": 21,
+      "2020-12-12": 21,
+      "2020-12-11": 1440,
       "2020-12-10": 1440,
       "2020-12-09": 1440,
       "2020-12-08": 154

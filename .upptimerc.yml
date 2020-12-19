@@ -3,31 +3,31 @@ repo: upptime-test
 
 sites:
   - name: (dev) Tyre Pharmacy
-    url: http://95.213.204.159/
+    url: $DEVELOPMENT_TYREPHARM/
   - name: (dev) Monitor / MySQL 
-    url: http://95.213.204.159/local/api/Monitor/db
+    url: $DEVELOPMENT_TYREPHARM/local/api/Monitor/db
     headers:
       - "Content-Type: application/json"
   - name: (dev) Monitor / init.php 
-    url: http://95.213.204.159/local/api/Monitor/init
+    url: $DEVELOPMENT_TYREPHARM/local/api/Monitor/init
     headers:
       - "Content-Type: application/json"
   - name: (dev) Monitor / services 
-    url: http://95.213.204.159/local/api/Monitor/services
+    url: $DEVELOPMENT_TYREPHARM/local/api/Monitor/services
     headers:
       - "Content-Type: application/json"
   - name: (test) Tyre Pharmacy
-    url: http://5.101.51.170/
+    url: $TESTING_TYREPHARM
   - name: (test) Monitor / MySQL 
-    url: http://5.101.51.170/local/api/Monitor/db
+    url: $TESTING_TYREPHARM/local/api/Monitor/db
     headers:
       - "Content-Type: application/json"
   - name: (test) Monitor / init.php 
-    url: http://5.101.51.170/local/api/Monitor/init
+    url: $TESTING_TYREPHARM/local/api/Monitor/init
     headers:
       - "Content-Type: application/json"
   - name: (test) Monitor / services 
-    url: http://5.101.51.170/local/api/Monitor/services
+    url: $TESTING_TYREPHARM/local/api/Monitor/services
     headers:
       - "Content-Type: application/json"
 

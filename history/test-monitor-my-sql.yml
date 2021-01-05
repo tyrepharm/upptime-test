@@ -1,7 +1,7 @@
 url: $TESTING_TYREPHARM/local/api/Monitor/db  
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-01-04T23:37:11.326Z
+code: 404
+responseTime: 153
+lastUpdated: 2021-01-05T23:37:49.803Z
 startTime: Tue Dec 08 2020 21:25:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -16,20 +16,6 @@ sites:
     url: $DEVELOPMENT_TYREPHARM/local/api/Monitor/services
     headers:
       - "Content-Type: application/json"
-  - name: (test) Tyre Pharmacy
-    url: $TESTING_TYREPHARM
-  - name: (test) Monitor / MySQL 
-    url: $TESTING_TYREPHARM/local/api/Monitor/db
-    headers:
-      - "Content-Type: application/json"
-  - name: (test) Monitor / init.php 
-    url: $TESTING_TYREPHARM/local/api/Monitor/init
-    headers:
-      - "Content-Type: application/json"
-  - name: (test) Monitor / services 
-    url: $TESTING_TYREPHARM/local/api/Monitor/services
-    headers:
-      - "Content-Type: application/json"
 
 
 status-website:

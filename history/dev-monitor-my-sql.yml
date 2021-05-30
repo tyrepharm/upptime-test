@@ -1,7 +1,7 @@
 url: $DEVELOPMENT_TYREPHARM/local/api/Monitor/db
 status: down
 code: 502
-responseTime: 146
-lastUpdated: 2021-05-29T23:41:39.565Z
+responseTime: 138
+lastUpdated: 2021-05-30T23:46:30.667Z
 startTime: Tue Dec 08 2020 21:25:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

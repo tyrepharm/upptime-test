@@ -1,7 +1,7 @@
 url: $DEVELOPMENT_TYREPHARM/
 status: down
-code: 502
-responseTime: 288
-lastUpdated: 2021-09-06T23:21:07.873Z
+code: 403
+responseTime: 403
+lastUpdated: 2021-09-07T23:21:12.251Z
 startTime: Tue Dec 08 2020 21:25:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

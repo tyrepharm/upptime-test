@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-tyre-pharmacy",
     "status": "up",
-    "uptime": "61.15%",
+    "uptime": "61.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.46%",
-    "uptimeYear": "48.87%",
-    "time": 1731,
-    "timeDay": 1391,
-    "timeWeek": 1174,
-    "timeMonth": 1133,
-    "timeYear": 1796,
+    "uptimeYear": "49.14%",
+    "time": 1730,
+    "timeDay": 1175,
+    "timeWeek": 1193,
+    "timeMonth": 1128,
+    "timeYear": 1799,
     "dailyMinutesDown": {
       "2022-05-11": 800,
       "2022-05-10": 751,
@@ -207,8 +207,7 @@
       "2021-06-07": 1440,
       "2021-06-06": 1440,
       "2021-06-05": 1440,
-      "2021-06-04": 1440,
-      "2021-06-03": 1440
+      "2021-06-04": 1440
     }
   },
   {
@@ -217,15 +216,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-monitor-my-sql",
     "status": "up",
-    "uptime": "61.24%",
+    "uptime": "61.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.46%",
-    "uptimeYear": "48.98%",
+    "uptimeYear": "49.25%",
     "time": 345,
-    "timeDay": 185,
-    "timeWeek": 148,
-    "timeMonth": 145,
+    "timeDay": 149,
+    "timeWeek": 152,
+    "timeMonth": 143,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2022-05-11": 800,
@@ -417,8 +416,7 @@
       "2021-06-07": 1440,
       "2021-06-06": 1440,
       "2021-06-05": 1440,
-      "2021-06-04": 1440,
-      "2021-06-03": 1440
+      "2021-06-04": 1440
     }
   },
   {
@@ -427,16 +425,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-monitor-init-php",
     "status": "up",
-    "uptime": "61.19%",
+    "uptime": "61.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.46%",
-    "uptimeYear": "48.91%",
+    "uptimeYear": "49.18%",
     "time": 598,
-    "timeDay": 248,
-    "timeWeek": 217,
-    "timeMonth": 215,
-    "timeYear": 748,
+    "timeDay": 208,
+    "timeWeek": 219,
+    "timeMonth": 214,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2022-05-11": 800,
       "2022-05-10": 751,
@@ -629,8 +627,7 @@
       "2021-06-07": 1440,
       "2021-06-06": 1440,
       "2021-06-05": 1440,
-      "2021-06-04": 1440,
-      "2021-06-03": 1440
+      "2021-06-04": 1440
     }
   },
   {
@@ -639,16 +636,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dev-monitor-services",
     "status": "up",
-    "uptime": "61.16%",
+    "uptime": "61.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.46%",
-    "uptimeYear": "48.88%",
-    "time": 2123,
-    "timeDay": 3269,
-    "timeWeek": 2967,
-    "timeMonth": 3036,
-    "timeYear": 1923,
+    "uptimeYear": "49.15%",
+    "time": 2124,
+    "timeDay": 3220,
+    "timeWeek": 3021,
+    "timeMonth": 3029,
+    "timeYear": 1931,
     "dailyMinutesDown": {
       "2022-05-11": 800,
       "2022-05-10": 751,
@@ -841,8 +838,7 @@
       "2021-06-07": 1440,
       "2021-06-06": 1440,
       "2021-06-05": 1440,
-      "2021-06-04": 1440,
-      "2021-06-03": 1440
+      "2021-06-04": 1440
     }
   }
 ]

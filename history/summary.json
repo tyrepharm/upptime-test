@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-tyre-pharmacy",
     "status": "up",
-    "uptime": "70.41%",
+    "uptime": "70.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.12%",
-    "time": 1613,
-    "timeDay": 1312,
-    "timeWeek": 1086,
-    "timeMonth": 1119,
-    "timeYear": 2033,
+    "uptimeYear": "85.39%",
+    "time": 1607,
+    "timeDay": 1136,
+    "timeWeek": 1108,
+    "timeMonth": 1113,
+    "timeYear": 2035,
     "dailyMinutesDown": {
       "2022-05-11": 800,
       "2022-05-10": 751,
@@ -74,8 +74,7 @@
       "2021-11-23": 1440,
       "2021-11-22": 1440,
       "2021-11-21": 1440,
-      "2021-11-20": 1440,
-      "2021-11-19": 1440
+      "2021-11-20": 1440
     }
   },
   {
@@ -84,15 +83,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-monitor-my-sql",
     "status": "up",
-    "uptime": "70.48%",
+    "uptime": "70.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.23%",
+    "uptimeYear": "85.50%",
     "time": 280,
-    "timeDay": 206,
-    "timeWeek": 138,
-    "timeMonth": 141,
+    "timeDay": 147,
+    "timeWeek": 143,
+    "timeMonth": 140,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2022-05-11": 800,
@@ -151,8 +150,7 @@
       "2021-11-23": 1440,
       "2021-11-22": 1440,
       "2021-11-21": 1440,
-      "2021-11-20": 1440,
-      "2021-11-19": 1440
+      "2021-11-20": 1440
     }
   },
   {
@@ -161,16 +159,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-monitor-init-php",
     "status": "up",
-    "uptime": "70.44%",
+    "uptime": "70.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.15%",
+    "uptimeYear": "85.43%",
     "time": 588,
-    "timeDay": 252,
-    "timeWeek": 206,
-    "timeMonth": 218,
-    "timeYear": 768,
+    "timeDay": 226,
+    "timeWeek": 210,
+    "timeMonth": 217,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2022-05-11": 800,
       "2022-05-10": 751,
@@ -230,8 +228,7 @@
       "2021-11-23": 1440,
       "2021-11-22": 1440,
       "2021-11-21": 1440,
-      "2021-11-20": 1440,
-      "2021-11-19": 1440
+      "2021-11-20": 1440
     }
   },
   {
@@ -240,16 +237,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-monitor-services",
     "status": "up",
-    "uptime": "70.42%",
+    "uptime": "70.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.14%",
-    "time": 2307,
-    "timeDay": 3480,
-    "timeWeek": 3240,
-    "timeMonth": 3200,
-    "timeYear": 3083,
+    "uptimeYear": "85.41%",
+    "time": 2313,
+    "timeDay": 3351,
+    "timeWeek": 3255,
+    "timeMonth": 3203,
+    "timeYear": 3091,
     "dailyMinutesDown": {
       "2022-05-11": 800,
       "2022-05-10": 751,
@@ -308,8 +305,7 @@
       "2021-11-23": 1440,
       "2021-11-22": 1440,
       "2021-11-21": 1440,
-      "2021-11-20": 1440,
-      "2021-11-19": 1440
+      "2021-11-20": 1440
     }
   }
 ]

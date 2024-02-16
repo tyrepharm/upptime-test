@@ -1,7 +1,7 @@
 url: $DEVELOPMENT_TYREPHARM/local/api/Monitor/db
 status: up
 code: 200
-responseTime: 158
-lastUpdated: 2024-02-15T23:18:14.303Z
+responseTime: 188
+lastUpdated: 2024-02-16T23:16:34.590Z
 startTime: 2020-12-08T21:25:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $DEVELOPMENT_TYREPHARM/
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-11T23:19:11.311Z
+code: 500
+responseTime: 271
+lastUpdated: 2024-06-12T23:19:20.583Z
 startTime: 2020-12-08T21:25:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $DEVELOPMENT_TYREPHARM/local/api/Monitor/db
 status: down
 code: 404
-responseTime: 125
-lastUpdated: 2025-02-07T23:20:26.000Z
+responseTime: 129
+lastUpdated: 2025-02-08T23:21:45.994Z
 startTime: 2020-12-08T21:25:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
